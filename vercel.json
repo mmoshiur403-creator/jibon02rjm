@@ -1,8 +1,9 @@
 {
   "redirects": [
     {
-      "source": "/ZeeBangla/index.m3u8",
-      "destination": "https://1by1jago02jibon02proxy.jibon02khan.workers.dev/SHOMOR-VIYA-ZEE-BANGLA/index.m3u8",
+      "source": "/SHOMOR-VIYA-GREEN-TV/index.m3u8",
+      "destination": "https://1by1jago02jibon02proxy.jibon02khan.workers.dev/SHOMOR-VIYA-GREEN-TV
+/index.m3u8",
       "permanent": false
     },
     {
