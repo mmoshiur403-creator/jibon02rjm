@@ -1,0 +1,14 @@
+{
+  "redirects": [
+    {
+      "source": "/ZeeBangla/index.m3u8",
+      "destination": "https://1by1jago02jibon02proxy.jibon02khan.workers.dev/SHOMOR-VIYA-ZEE-BANGLA/index.m3u8",
+      "permanent": false
+    },
+    {
+      "source": "/NagorikTV/index.m3u8",
+      "destination": "https://jibon02premium02iptv.jibon02khan.workers.dev/delta/59_NAGORIK-TV/index.m3u8",
+      "permanent": false
+    }
+  ]
+}
